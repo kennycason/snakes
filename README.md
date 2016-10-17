@@ -1,6 +1,18 @@
-Snakes
-======
+Snakes - Purebasic
+==================
 
+A snakes clone written in Purebasic 3.94.
+
+<table>
+<tr>
+    <td>
+        <img src="/screenshots/snakes1.png" width="300px"/>
+    </td>
+    <td>
+        <img src="/screenshots/snakes2.png" width="400px"/>
+    </td>
+</tr>
+</table>
 
 ## Features/Keys
 
